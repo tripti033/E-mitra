@@ -1,4 +1,13 @@
 # E-Mitra
+![Screenshot 2023-07-23 at 00-27-44 Emitra(new)](https://github.com/tripti033/E-mitra/assets/107789391/a4961912-dfbe-4609-bda6-de251e292c72)
+
+![Screenshot 2023-07-23 at 00-28-55 Emitra(new)](https://github.com/tripti033/E-mitra/assets/107789391/b0660bb4-8baf-4059-8b78-dae13ce2c100)
+
+![Screenshot 2023-07-23 at 00-30-30 Emitra(new)](https://github.com/tripti033/E-mitra/assets/107789391/6396390f-d656-4f9b-a35f-11bf1839bffe)
+
+![Screenshot 2023-07-23 at 00-31-07 Emitra(new)](https://github.com/tripti033/E-mitra/assets/107789391/774f63cf-7a2c-4dd2-ae38-b5906e56f64f)
+
+
 
 PROBLEM STATEMENT-
 According to the National Mental Health Survey conducted in 2015-16, it was estimated that around 15% of the Indian population, or approximately 197 million people, had some form of mental health condition.
@@ -19,7 +28,5 @@ SOLUTION-
 
 So, our team is here to break all the taboos regarding mental health, presenting solutions to every mental health problem, our AI chatbot web app "EMITRA." 
 Emitra is an AI-powered tool that can offer support, advice, and guidance to individuals experiencing mental health challenges. 
-
 It can be accessed through messaging platforms or websites and used as a confidential and non-judgmental resource for those seeking help.
-<img src="https://emitra-bugsquashers.netlify.app/Images/Colourful%20Scrapbook%20Collage%20Media%20Marketing%20Brainstorm%20Presentation.png">
-<img src= "Bug-Squashers/Images/WhatsApp Image 2023-03-23 at 11.09.02.jpeg">
+
